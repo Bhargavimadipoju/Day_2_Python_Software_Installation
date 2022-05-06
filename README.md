@@ -1,15 +1,15 @@
 # Day_2_Python_Software_Installation
 
-Python Software Installatio from python.org
+Python Software Installatio from python.org<br>
 
-Installation of Microsoft Visual Studio Code
+Installation of Microsoft Visual Studio Code<br>
 
-Steps and procedures have been enclosed
+Steps and procedures have been enclosed<br>
 
-Ways to verify python has been installed or not.
+Ways to verify python has been installed or not.<br>
 
-1) using cmd prmpt
-   python --version 
-3) edit the system variable --> environment variables
+1) using cmd prmpt<br>
+   python --version <br>
+3) edit the system variable --> environment variables<br>
 
 video link:https://bit.ly/3y0Hr6u
